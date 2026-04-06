@@ -3,6 +3,6 @@ numpy
 scikit-learn
 pandas
 ipykernel
-joblib
 streamlit
 chardet
+joblib
