@@ -123,4 +123,4 @@ if st.session_state.get("data_ready"):
                     st.write(f" Sentiment: {result}")
 
     except Exception as e:
-        st.error(f"❌ Could not load the model: {e}")
+        st.error(f"  Could not load the model: {e}")
