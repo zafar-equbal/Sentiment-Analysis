@@ -6,3 +6,4 @@ ipykernel
 streamlit
 chardet
 joblib
+jupyter notebook
