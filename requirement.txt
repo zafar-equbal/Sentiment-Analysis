@@ -7,3 +7,4 @@ streamlit
 chardet
 joblib
 jupyter notebook
+zfrTech
