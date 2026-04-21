@@ -7,7 +7,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
 
-#for mlops pipelines pyt
+#for mlops pipelines python
 from sklearn.pipeline import make_pipeline
 
 #joblib 
