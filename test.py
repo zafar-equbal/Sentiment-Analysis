@@ -7,6 +7,7 @@ input_text=input('Enter the text:')
 cleaned_text= input_text.strip()
 
 
+
 if os.path.exists(model_path):
     model=joblib.load(model_path)
     prediction_arr=model.predict([cleaned_text])
